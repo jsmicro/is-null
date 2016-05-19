@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-null",
+    "description": "Check does the given Javascript Object is a null.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-null",
+        "isnull",
+        "null"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-null",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}
