@@ -30,11 +30,11 @@ bower install --save jsmicro-is-null
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-null
+npm install --save @jsmicro/is-null
 ```
 
 ```js
-const obj = require('jsmicro-is-null');
+const obj = require('@jsmicro/is-null');
 
 // Available in the global object.
 isNull(null); // true
